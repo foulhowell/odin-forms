@@ -50,7 +50,7 @@ input:focus {
 .left-content {
     display: flex;
     flex-direction: column;
-    background-image: url(/images/halie-west-25xggax4bSA-unsplash.jpg);
+    background-image: url(images/halie-west-25xggax4bSA-unsplash.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     width: 30%;
